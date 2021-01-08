@@ -1,10 +1,12 @@
 # Diego Aguilar
 
-I'm a Software Engineer with a Computer Science background, I'm interested in a variety of areas, from Cloud & Data Engineering to Product Development.
+I'm a Senior Software Engineer working creating solutions, advising and writing about cloud & data engineering, software architecture and web development. My experience comprehends multiple industries, from media & entertainment, healthcare and finance.
 
-I'm also pretty interested in writing, music, arts and keen to learn new topics and areas of knowledge like psychology, finance and economics.
+I create digital web products and tools that help creators boost their productivity and focus on what it matters.
+
+Coming from a Computer Science background, I'm also pretty interested in writing, arts and culture. Always eager to get into new areas of knowledge like Psychology, Finance & Economics and Urbanism.
 
 ### Contributions
 
-Feel free to reach me out for contributions.
+Feel free to reach out for contributions.
 
